@@ -5,3 +5,4 @@ The project is divided into 3 main parts
 3. Functional tests where all the cucumebr steps for the test are presented as Feature files and the corresponding step definitions.
 
 One of the scenarios for testing the Contact Us page for invalid email address fails due to an unhandled server error - HTTP server error 500 
+https://github.com/IndePanesar/QAWorks/blob/master/QAWorks/QAWorks.PNG
